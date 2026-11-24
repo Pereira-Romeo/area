@@ -4,6 +4,8 @@
 
 ## Type of Change
 
+<!-- You can tick option by replace the space with an x: `- [x]` -->
+
 - [ ] New feature
 - [ ] Bug fix
 - [ ] Refactoring (no functional changes)
